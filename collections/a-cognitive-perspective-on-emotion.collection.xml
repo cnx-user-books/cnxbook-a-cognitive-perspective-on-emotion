@@ -1,144 +1,38 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col10733</md:content-id>
-  <md:title>A Cognitive Perspective on Emotion</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>56bb5933-fcbd-42b5-b421-52eef4e3b816</md:uuid>
-<md:slug>a-cognitive-perspective-on-emotion</md:slug>
-</metadata>
-
+    <md:content-id>col10733</md:content-id>
+    <md:title>A Cognitive Perspective on Emotion</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>56bb5933-fcbd-42b5-b421-52eef4e3b816</md:uuid>
+    <md:slug>a-cognitive-perspective-on-emotion</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m29595"/>
-        
-      
-    
-    
-      <col:module document="m29599"/>
-        
-      
-    
-    
-      <col:module document="m29603"/>
-        
-      
-    
-    
-      <col:module document="m29605"/>
-        
-      
-    
-    
-      <col:module document="m14340"/>
-        
-      
-    
-    
-      <col:module document="m30937"/>
-        
-      
-    
-    
-      <col:module document="m14860"/>
-        
-      
-    
-    
-      <col:module document="m30528"/>
-        
-      
-    
-    
-      <col:module document="m30543"/>
-        
-      
-    
-    
-      <col:module document="m14855"/>
-        
-      
-    
-    
-      <col:module document="m29606"/>
-        
-      
-    
-    
-      <col:module document="m14352"/>
-        
-      
-    
-    
-      <col:module document="m14359"/>
-        
-      
-    
-    
-      <col:module document="m30504"/>
-        
-      
-    
-    
-      <col:module document="m14308"/>
-        
-      
-    
-    
-      <col:module document="m14309"/>
-        
-      
-    
-    
-      <col:module document="m14313"/>
-        
-      
-    
-    
-      <col:module document="m16628"/>
-        
-      
-    
-    
-      <col:module document="m29607"/>
-        
-      
-    
-    
-      <col:module document="m16323"/>
-        
-      
-    
-    
-      <col:module document="m33040"/>
-        
-      
-    
-    
-      <col:module document="m29610"/>
-        
-      
-    
-    
-      <col:module document="m61607"/>
-        
-      
-    
-    
-      <col:module document="m60049"/>
-        
-      
-    
-    
-      <col:module document="m60366"/>
-        
-      
-    
+    <col:module document="m29595"/>
+    <col:module document="m29599"/>
+    <col:module document="m29603"/>
+    <col:module document="m29605"/>
+    <col:module document="m14340"/>
+    <col:module document="m30937"/>
+    <col:module document="m14860"/>
+    <col:module document="m30528"/>
+    <col:module document="m30543"/>
+    <col:module document="m14855"/>
+    <col:module document="m29606"/>
+    <col:module document="m14352"/>
+    <col:module document="m14359"/>
+    <col:module document="m30504"/>
+    <col:module document="m14308"/>
+    <col:module document="m14309"/>
+    <col:module document="m14313"/>
+    <col:module document="m16628"/>
+    <col:module document="m29607"/>
+    <col:module document="m16323"/>
+    <col:module document="m33040"/>
+    <col:module document="m29610"/>
+    <col:module document="m61607"/>
+    <col:module document="m60049"/>
+    <col:module document="m60366"/>
   </col:content>
 </col:collection>
